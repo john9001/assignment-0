@@ -1,2 +1,2 @@
 module Main where
-  main = putStrLn "Hello, world!"
+  main = putStrLn "Hello, w0rld!"
